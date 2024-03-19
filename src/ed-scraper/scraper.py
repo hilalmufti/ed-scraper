@@ -6,10 +6,10 @@ import json
 import time
 
 
-STUDENT_EMAIL = "kdo55%40uw.edu"
+STUDENT_EMAIL = ""
 WEB_ADDRESS = f"https://edstem.org/us/courses/50191/lessons/87193/attempts?email={STUDENT_EMAIL}&slide=486954" # for stonks
 STAFF_EMAIL = "rlin0622@uw.edu"
-STAFF_PASSWORD = "XXX"
+STAFF_PASSWORD = "Bsd48.org"
 TIME_OUT = 60
 
 driver = webdriver.Safari() # change this if u dont use safari
